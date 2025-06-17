@@ -1,7 +1,7 @@
 ## Hi there 👋
 |Number|Repository|What is this about| Html | CSS | JavaScript|TypeScript | Phyton| C#| link|
 |-------|-------|---------|-------|-----|-------|-------|-------|-------|-------|
-|001|https://github.com/TonyDuran-dev/001-HTMLBasicStructure|HTML main structure        |X      |      |      |    |    | |  |
+|001|https://github.com/TonyDuran-dev/001-HTMLBasicStructure|HTML main structure        |X      |      |      |    |    | | https://tonyduran-dev.github.io/001-HTMLBasicStructure/ |
 
 <!--
 **TonyDuran-dev/TonyDuran-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
